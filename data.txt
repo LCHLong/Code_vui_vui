@@ -1,0 +1,16 @@
+11 pencil p Long 7000 49 A
+2 bread b AiDo 10000 3 B
+3 watermelon w LeChiHoangLong 10000 2 A
+6 milk m anhKhai 10000 10 A
+10 pen p Long 10000 90 A
+1 cake c LeChiHoangLong 12000 2 A
+9 key k Long 12000 9 B
+13 flower f Long 12000 10 D
+4 notepad n Son 15000 120 A
+19 clock c Phuc 100000 7 A
+15 T-shirt t Manh 100000 10 A
+98 pepeFrog p Phuc 100000 10 D
+12 glass g Phuc 120000 0 A
+5 mouse m Long 240000 10 A
+7 mouse m TienAn 400000 78 C
+8 Phone p Long 5000000 9 C

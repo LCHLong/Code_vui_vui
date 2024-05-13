@@ -1,0 +1,31 @@
+What do you want to do?
+    - Build data management software: 
+    Data include: id - name products - product type - name of importer - price - quantity - warehouse
+        + id: integer;
+        + name products: char[31];
+        + product type: char; ( A, B, C, ...)
+            * Food: f;
+            * Water: w;
+            * Device: d;
+            * Stationery: s;
+            * Other: o;
+        + name of importer: char[51];
+        + price: double;
+        + quantity: integer;
+        + warehouse: char ( A, B, C, ...) 
+            * A: Food and water;
+            * B: Device;
+            * C: Stationery (văn phòng phẩm);
+            * D: Other;
+    Date include: day - month - year - id
+        + id: integer;
+        + day, month, year: integer;
+    - What you need to build data management software?
+        + Function used to copy data in product: copyProduct: Complete
+        + Function used to put data into struct : putDataIntoStuct: Complete
+        + Function used to put data in struct into file: putDataInFile: Complete
+        + Function used to input new data into file and save day in "date_input_data.txt": inputNewData: Complete
+        + Function used to print data into file: printDataInFile: Complete
+        + Function used to print sale product: printSaleProduct: Complete
+        + Function used to input day output data in "date_output_data.txt": recorDateOutputData: Complete
+        + Fucction used to show options: representsOptions: Complete
